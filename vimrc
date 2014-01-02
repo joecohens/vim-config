@@ -199,6 +199,9 @@ set noshowmode " Hide the default mode text (e.g. -- INSERT -- below the statusl
 " Surround Vim
 vmap s S
 
+" BufferGator
+let g:buffergator_suppress_keymaps = 1
+
 autocmd cursorhold * set nohlsearch
 autocmd cursormoved * set hlsearch
  
