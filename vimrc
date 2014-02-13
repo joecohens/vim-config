@@ -57,6 +57,7 @@ Bundle 'thinca/vim-visualstar'
 Bundle 'chriskempson/base16-vim'
 Bundle 'chriskempson/vim-tomorrow-theme'
 Bundle 'vim-scripts/xoria256.vim'
+Bundle "daylerees/colour-schemes", { "rtp": "vim-themes/" }
 " Langs
 Bundle 'tpope/vim-haml.git'
 Bundle 'pangloss/vim-javascript.git'
